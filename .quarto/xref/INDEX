@@ -1,0 +1,14 @@
+{
+  "blog.qmd": {
+    "blog.html": "0458bb7e"
+  },
+  "index.qmd": {
+    "index.html": "ba7e78d0"
+  },
+  "posts/dummy/IndustralParks.qmd": {
+    "IndustralParks.html": "73ac58cc"
+  },
+  "archive.qmd": {
+    "archive.html": "74b8864e"
+  }
+}

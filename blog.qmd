@@ -1,0 +1,38 @@
+---
+title: "Blog list"
+listing:
+  contents: posts/**/*.qmd
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [date, title, reading-time, description, categories]
+  feed: false
+page-layout: full
+title-block-banner: false
+---
+
+:::: {.columns}
+
+::: {.column width="39%"}
+# Series
+
+##### [ggplot2-series](ggplot-series.html)
+
+This series contains a great deal of tips, tricks and packages that you can use to level up your ggplot game.
+:::
+
+::: {.column width="55%"}
+# Subscribe
+
+<iframe id="beehiiv-form" src="https://embeds.beehiiv.com/9232d2a2-6e85-4beb-b8ed-1de94e9e4f01?slim=true" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent; height: 75px; width: 90%;">
+
+</iframe>
+
+:::
+::::
+
+
+
+

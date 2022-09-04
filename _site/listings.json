@@ -1,0 +1,24 @@
+[
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/ggplot2-tips/ggplot2-tips.html",
+      "/posts/dummy/IndustralParks.html",
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/archive.html",
+    "items": [
+      "/posts/ggplot2-tips/ggplot2-tips.html",
+      "/posts/dummy/IndustralParks.html",
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/posts/ggplot2-tips/ggplot2-tips.html",
+    "items": []
+  }
+]

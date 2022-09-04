@@ -1,0 +1,12 @@
+---
+title: "Welcome To My Blog"
+author: "John Mphande"
+date: "2022-08-30"
+categories: [news]
+---
+
+This is my first ever blog post, and done so in **Quarto**. I hope you learn something from my jove, and it inspires you to leaarn too. Welcome!
+
+![](thumbnail.jpg)
+
+I am an mature student trying to learn business intelligence and analytics
